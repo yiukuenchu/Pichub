@@ -1,5 +1,22 @@
 # awesome-vue-pichub
-Powered by Yiukuen. Made with love❤️
-  
-## 前言
-  一转眼就到了大四了，考虑过后计划写一个Web平台作为我的毕业设计。首先感谢以下网站给我带来的启发：
+
+> A Vue.js project
+> Powered by Yiukuen👨‍💻. Made with love❤️.
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
