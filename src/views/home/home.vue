@@ -10,7 +10,6 @@
             <el-menu-item index="explore">发现</el-menu-item>
             <el-menu-item index="about">关于</el-menu-item>
             <el-menu-item index="license">版权</el-menu-item>
-
           </el-menu>
         </el-col>
       </div>
