@@ -1,3 +1,9 @@
+/**
+* @author yiukuenchu
+* @version 创建时间：${date} ${time}
+* 类说明
+*/
+
 <template>
     
 </template>
