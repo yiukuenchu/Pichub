@@ -36,7 +36,7 @@
         handleSelect(key, keyPath) {
           console.log(key, keyPath);
         }
-      }
+      },
     }
 </script>
 
