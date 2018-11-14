@@ -20,7 +20,17 @@
         <el-menu-item index="explore">发现</el-menu-item>
         <el-menu-item index="about">关于</el-menu-item>
         <el-menu-item index="license">版权</el-menu-item>
-        <el-menu-item index="more"><i class="el-icon-more"></i></el-menu-item>
+        <el-menu-item index="more">
+          <el-dropdown trigger="click">
+           <i class="el-icon-more"></i>
+            <el-dropdown-menu slot="dropdown">
+              <el-dropdown-item>社区</el-dropdown-item>
+              <el-dropdown-item>商店</el-dropdown-item>
+              <el-dropdown-item>帮助</el-dropdown-item>
+              <el-dropdown-item>License</el-dropdown-item>
+            </el-dropdown-menu>
+          </el-dropdown>
+        </el-menu-item>
       </el-menu>
     </div>
   </el-container>
