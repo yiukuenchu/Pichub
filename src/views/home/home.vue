@@ -9,10 +9,10 @@
     <el-row class="el-tabs__nav">
       <el-col :span="24">
         <div class="el-tabs__nav">
-            <a><img src="../../assets/camera.png" width="35" height="35" style="margin-left: 10px" ></a>
+            <a><img src="../../assets/camera.png" width="34" height="31" style="margin-left: 10px" ></a>
         </div>
         <div class="el-input" style="margin-left: 20px">
-          <el-input type="text" size="medium"  placeholder="搜索获取高质量图片">
+          <el-input v-model="input" type="text" size="medium"  placeholder="搜索获取高质量图片">
           </el-input>
         </div>
         <div class="el-tabs__nav" style="margin-left: 20px" >
