@@ -6,7 +6,6 @@
 
 <template>
   <el-container>
-
     <div class="el-tabs__nav">
       <a><img src="../../assets/camera.png" width="34" height="31" style="margin-left: 10px" ></a>
     </div>
@@ -34,7 +33,6 @@
         </el-menu-item>
       </el-menu>
     </div>
-
   </el-container>
 </template>
 
