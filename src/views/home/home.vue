@@ -5,14 +5,16 @@
 */
 
 <template>
-  <el-container>
+  <div>
+    <el-header>
+    <nav>
+  <!--<el-container>-->
     <div class="el-tabs__nav">
       <a><img src="../../assets/camera.png" width="34" height="31" style="margin-left: 10px" ></a>
-    </div>
-
-    <div class="el-input" style="margin-left: 20px; width: 700px; " >
-      <el-input v-model="input" type="text" size="medium" prefix-icon="el-icon-search" placeholder="搜索获取高质量图片" clearable="true">
-      </el-input>
+      <div class="el-input" style="margin-left: 20px; width: 700px; " >
+        <el-input v-model="input" type="text" size="medium" prefix-icon="el-icon-search" placeholder="搜索获取高质量图片" clearable="true">
+        </el-input>
+      </div>
     </div>
 
     <div>
@@ -33,7 +35,20 @@
         </el-menu-item>
       </el-menu>
     </div>
-  </el-container>
+
+    <div>
+      <div>
+        <span>
+          <el-dropdown trigger="click">
+            <i class="el-icon-bell"></i>
+          </el-dropdown>
+        </span>
+      </div>
+    </div>
+  <!--</el-container>-->
+    </nav>
+    </el-header>
+  </div>
 </template>
 
 
