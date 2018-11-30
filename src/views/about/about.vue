@@ -4,7 +4,11 @@
 * 类说明
 */
 <template>
-    
+    <div>
+      <el-header>
+
+      </el-header>
+    </div>
 </template>
 
 <script>
