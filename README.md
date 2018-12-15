@@ -1,7 +1,7 @@
 # awesome-vue-pichub
 
 > A Vue.js project   
-> Powered by Yiukuen👨‍💻    
+> Powered by Yiukuen
 > Made with love❤️  
 
 Still Developing...
