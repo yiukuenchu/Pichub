@@ -1,9 +1,10 @@
 # awesome-vue-pichub
 
-> A Vue.js project   
-> Powered by Yiukuen
-> Made with love❤️  
+基于 [vue.js](https://cn.vuejs.org/index.html) 开发。
 
-Still Developing...
+毕业设计项目🐱
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Schedule
+- 2018，看心情。
+- 2019，赶进度。
+
