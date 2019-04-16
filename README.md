@@ -1,5 +1,5 @@
 <div align=center>
-    <img src="https://ws1.sinaimg.cn/large/006tNc79ly1g24rr5zfooj31400dcwem.jpg"/>
+    <img src="https://ws1.sinaimg.cn/large/006tNc79ly1g24rr5zfooj31400dcwem.jpg" width="70%"/>
 </div>
 
 # Pichub
