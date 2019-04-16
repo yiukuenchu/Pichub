@@ -1,4 +1,6 @@
-![](https://ws2.sinaimg.cn/large/006tNc79ly1g24rf222xyj30kh07i3yp.jpg)
+<div align=center>
+    <img src="https://ws1.sinaimg.cn/large/006tNc79ly1g24rr5zfooj31400dcwem.jpg"/>
+</div>
 
 # Pichub
 
