@@ -4,9 +4,9 @@
 
 # Pichub
 
-除了 Pornhub 和 GitHub 以外，你还可以了解的。
+除了 Pornhub 和 GitHub 以外，你还可以了解的 hub。
 
-我的毕业设计项目 🐱
+我的毕业设计项目 🎓
 
 ## Schedule
 - ~~夜以继日赶工~~
