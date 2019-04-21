@@ -1,0 +1,29 @@
+.cart-item {
+  margin: 1rem;
+  padding: .5rem;
+  background-color: #f3f3f3;
+  line-height: 1;
+}
+.cart-image {
+  height: 5rem;
+  width: 7rem;
+  object-fit: cover;
+}
+@media (max-width: 576px) {
+  .cart-item {
+    margin: 1rem 0;
+  }
+  .cart-item h5, .cart-item h6 {
+    margin-bottom: 0.25rem;
+  }
+  .cart-item > div {
+    padding-left: 1px;
+    padding-right: 10px;
+  }
+  .cart-item h5 {
+    font-size: .95rem;
+  }
+  .cart-item h6 {
+    font-size: .8rem;
+  }
+}

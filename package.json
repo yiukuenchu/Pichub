@@ -1,0 +1,15 @@
+{
+  "name": "PicHub",
+  "version": "1.0.0",
+  "description": "Final project in 2019",
+  "main": "index.php",
+  "repository": "https://github.com/yiukuenchu/Pichub",
+  "author": "yiukuenchu",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  },
+  "dependencies": {}
+}

@@ -1,0 +1,44 @@
+body {
+  margin-top: 0;
+}
+.footer {
+  background-color: #0a0a0a;
+  margin-top: 0;
+}
+
+/* Makes navbar semi-transparent on home page */
+.bg-transparent {
+  background-color: transparent;
+}
+.bg-dark {
+  background-color: rgba(10,10,10,.8) !important;
+}
+.dropdown-menu {
+  background-color: rgba(10,10,10,.8) !important;
+
+}
+.full-image {
+  width: 100%;
+  height: 100vh;
+  background-color: #333;
+  background-image: url("https://source.unsplash.com/collection/1953059/1600x900");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.display-4 {
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  text-shadow: 2px 2px black;
+  padding-top: 3.5rem;
+  font-weight: 900;
+}
+
+@media(max-width: 576px) {
+  .dropdown-menu {
+    background-color: transparent !important;
+  }
+}

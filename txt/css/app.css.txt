@@ -1,0 +1,74 @@
+/* Accounts for fixed navbar */
+body {
+  margin-top: 3.4rem;
+}
+h1, h2, h3 {
+  font-family: "Montserrat", sans-serif;
+}
+a {
+  outline: 0;
+}
+.footer {
+  background: #333;
+  padding: .5rem 1rem;
+  color: white;
+  align-items: center;
+  margin-top: .5rem;
+}
+.footer p {
+  margin-bottom: 0;
+}
+.footer h6 {
+  text-align: right;
+  margin-bottom: 0;
+}
+/* makes the footer sit at at least the bottom if there is not much content on the page */
+.f-pusher {
+  min-height: calc(100vh - 6.3rem);
+}
+.jumbotron {
+  margin-bottom: 1rem;
+}
+.navbar-brand {
+  font-family: "Montserrat", sans-serif;
+  text-transform: uppercase;
+  color: white !important;
+}
+.nav-link {
+  text-transform: uppercase;
+}
+.jumbotron {
+  padding: 4rem 2rem;
+  margin-bottom: 0;
+  background-color: white;
+}
+.jumbotron h1.display-4 {
+  font-weight: bold;
+}
+
+/* navbar transitions - makes navbar expand on mobile */
+.expand-enter-active, .expand-leave-active {
+  transition: height .5s;
+  overflow-y: hidden;
+}
+.expand-enter-active, .expand-leave-active {
+  height: 195px;
+}
+.expand-enter, .expand-leave-to {
+  height: 0;
+}
+
+@media (max-width: 576px) {
+  .jumbotron {
+    padding: 4rem 0rem;
+  }
+  .display-4 {
+    font-size: 2.5rem;
+  }
+  .f-pusher {
+    min-height: calc(100vh - 7.7rem);
+  }
+  .dropdown-item {
+    padding: .5rem;
+  }
+}

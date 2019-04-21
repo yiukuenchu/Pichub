@@ -1,0 +1,32 @@
+.img-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 1rem;
+  max-height: 70vh;
+}
+.img-container img {
+   max-width: 100%;
+   max-height: calc(100% - 5.6rem);
+   box-sizing: content-box;
+}
+.container .row {
+  min-height: 70vh;
+}
+#js-price {
+  font-weight: bold;
+}
+
+/* Border Styles */
+.none {
+  border: 1rem solid transparent;
+}
+.wood-border {
+  border-width: 1rem;
+  border-style: solid;
+  border-image: url("https://images.pexels.com/photos/326311/pexels-photo-326311.jpeg?auto=compress&cs=tinysrgb&h=350") 20 / 1rem / 0 stretch
+}
+.gray-border {
+  border: 1rem solid #333;
+}
