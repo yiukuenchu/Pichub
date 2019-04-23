@@ -6,11 +6,11 @@
 
 ![](https://img.shields.io/badge/for-Graduation-brightgreen.svg?style=flat-square)
 ![](https://img.shields.io/badge/sometimes-pass-orange.svg?style=flat-square)
-![](https://img.shields.io/github/license/:user/:repo.svg?style=flat-square)
+![](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
 
 ## 好看吗？
 ![](https://ws1.sinaimg.cn/large/006tNc79ly1g2cwyuaq1xj31hc0u0e81.jpg)
-个人认为，还是很好看的。用到了 Bootstap 的一款免费主题 **Bootswatch Yeti**。  
+🎉个人认为，还是很好看的。用到了 Bootstap 的一款免费主题 **Bootswatch Yeti**。  
 
 ## 跟 Pornhub 和 GitHub 有关系吗？
 Offically，是没有的。  
