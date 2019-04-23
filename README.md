@@ -2,13 +2,13 @@
     <img src="https://ws1.sinaimg.cn/large/006tNc79ly1g24rr5zfooj31400dcwem.jpg" width="70%"/>
 </div>
 
-<h1 style="text-align:center">Pichub</h1>
+<center>## Pichub</center>
 
-<div align=center>
+<center>
 ![](https://img.shields.io/badge/for-Graduation-brightgreen.svg?style=flat-square)
 ![](https://img.shields.io/badge/sometimes-pass-orange.svg?style=flat-square)
 ![](https://img.shields.io/github/license/:user/:repo.svg?style=flat-square)
-</div>
+</center>
 
 ## 好看吗？
 ![](https://ws1.sinaimg.cn/large/006tNc79ly1g2cwyuaq1xj31hc0u0e81.jpg)
