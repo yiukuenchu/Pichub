@@ -26,7 +26,7 @@ Offically，是没有的。
 ## Schedule
 - ~~夜以继日赶工~~
 - ~~发布到 Heroku~~
-- 完成相关文档
+- ~~完成相关文档~~
 
 ## License
 MIT
