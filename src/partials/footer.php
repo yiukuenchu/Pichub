@@ -1,6 +1,6 @@
 <footer class="footer">
   <div class="row">
-    <p class="col">Images from <a href="https://unsplash.com/collections/1953059/framed" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
+    <p class="col">Images from <a href="https://unsplash.com" target="_blank" rel="noopener noreferrer">Unsplash</a></p>
     <h6 class="col">Designed and built by <a href="https://yiukuenchu.github.io/" target="_blank">朱曜锟</a></h6>
     </div>
 </footer>
