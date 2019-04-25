@@ -1,5 +1,4 @@
 <noscript>
-  <!-- Makes sure that you can see menu items if javascript is disabled for some reason -->
   <style>
     .navbar-nav {
       flex-direction: row;

@@ -1,4 +1,3 @@
-<!-- This is the code for the sidebar in the admin panel -->
 <div class="sidebar">
   <ul class="sidebar-container">
     <li><a class="<?php if(PAGE_TITLE == 'Dashboard') echo 'active'; ?>" href="<?php path('/admin/'); ?>" title="View the admin dashboard"><span class="fas fa-tachometer-alt"></span></a></li>
